@@ -1,0 +1,3 @@
+Ouput:
+Age 21 accepted
+Rejected : Age 15 is below 18
