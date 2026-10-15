@@ -1,0 +1,6 @@
+ouput:
+Array error : index 5
+Math error : / by zero
+Null error : the object was never created
+finally : always runs
+Program continued normally.
