@@ -66,3 +66,10 @@ public class SalarySlip {
             System.out.printf("%-8s %10.2f%n", x.name, x.pay());
     }
 }
+/*
+Output:
+Meena       70000.00
+Ravi        48000.00
+Anu         12000.00
+*/
+
